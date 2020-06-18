@@ -1,7 +1,7 @@
 # Relative Position and Map Networks in Few-shot Learning for Image Classification
-Accepted in CVPR 2020 VL3 Workshop (https://www.learning-with-limited-labels.com/home)
+Accepted in CVPR 2020 VL3 Workshop [Here](https://www.learning-with-limited-labels.com/home)
 
-Download the paper (http://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.pdf)
+Download the paper [Here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.pdf)
 ## Citation
 If you find our work useful, please consider citing our work using the bibtex:
 
