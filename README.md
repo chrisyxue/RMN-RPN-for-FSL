@@ -33,7 +33,11 @@ Torchvision 0.5.0
 cd miniimagenet/
 python main.py -w 5 -s 5
 ```
-
+#### CIFAR-FS(5-way 5-shot)
+```
+cd CIFAR-FS/
+python main.py -w 5 -s 5
+```
 ## Reference
 1. [Relation Networks](https://github.com/floodsung/LearningToCompare_FSL)
 2. [R2-D2](https://github.com/bertinetto/r2d2)
