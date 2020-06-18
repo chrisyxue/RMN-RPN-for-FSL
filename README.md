@@ -25,7 +25,7 @@ Torchvision 0.5.0
 ## Data
 [Mini-Imagenet](https://drive.google.com/open?id=0B3Irx3uQNoBMQ1FlNXJsZUdYWEE): Put it in ./datas/mini-Imagenet and run proc_image.py to preprocess generate train/val/test datasets.
 
-[cifar-fs]()
+Cifar-FS: Find this dataset in 
 
 ## Source Codes
 Coming soon...
