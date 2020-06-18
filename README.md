@@ -21,8 +21,12 @@ Torchvision 0.5.0
 
 1 GPU (e.g. NVIDIA TITAN Xp)
 
+
+## Data
+[mini-Imagenet](https://drive.google.com/open?id=0B3Irx3uQNoBMQ1FlNXJsZUdYWEE)
+[cifar-fs]()
+
 ## Source Codes
 Coming soon...
 
 Please contact xzy990228@gmail@com if you have any problem.
-
