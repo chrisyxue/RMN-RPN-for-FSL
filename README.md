@@ -27,8 +27,12 @@ Torchvision 0.5.0
 
 [CIFAR-FS](https://drive.google.com/file/d/1pTsCCMDj45kzFYgrnO67BWVbKs48Q3NI/view?usp=sharing): Put it in ./datas/cifar/, and unzip the package.
 
-## Source Codes
-Coming soon...
+## Run
+#### Mini-ImageNet(5-way 5-shot):
+```
+cd miniimagenet/
+python main.py -w 5 -s 5
+```
 
 ## Reference
 1. [Relation Networks](https://github.com/floodsung/LearningToCompare_FSL)
