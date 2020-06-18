@@ -25,9 +25,13 @@ Torchvision 0.5.0
 ## Data
 [Mini-Imagenet](https://drive.google.com/open?id=0B3Irx3uQNoBMQ1FlNXJsZUdYWEE): Put it in ./datas/mini-Imagenet and run proc_image.py to preprocess generate train/val/test datasets.
 
-Cifar-FS: Find this dataset in 
+[CIFAR-FS](https://drive.google.com/file/d/1pTsCCMDj45kzFYgrnO67BWVbKs48Q3NI/view?usp=sharing): Put it in ./datas/cifar/, and unzip the package.
 
 ## Source Codes
 Coming soon...
+
+## Reference
+1. [Relation Networks](https://github.com/floodsung/LearningToCompare_FSL)
+2. [R2-D2](https://github.com/bertinetto/r2d2)
 
 Please contact xzy990228@gmail.com if you have any problem.
