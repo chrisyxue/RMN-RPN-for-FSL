@@ -30,4 +30,4 @@ Torchvision 0.5.0
 ## Source Codes
 Coming soon...
 
-Please contact xzy990228@gmail@com if you have any problem.
+Please contact xzy990228@gmail.com if you have any problem.
