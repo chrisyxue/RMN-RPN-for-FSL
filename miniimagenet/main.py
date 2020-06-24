@@ -11,7 +11,7 @@ from torch.autograd import Variable
 from torch.optim.lr_scheduler import StepLR
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 import numpy as np
-import task_generator_meta_argue4 as tg
+import task_generator as tg
 import os
 import math
 import argparse
