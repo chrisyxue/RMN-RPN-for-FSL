@@ -3,7 +3,7 @@ Accepted in CVPR 2020 VL3 Workshop [Here](https://www.learning-with-limited-labe
 
 Download the paper [Here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.pdf)
 
-Slide [Here]()
+Slide [Here](https://github.com/chrisyxue/RMN-RPN-for-FSL/blob/master/37-slides.pdf)
 
 1-min talk [Here]()
 
