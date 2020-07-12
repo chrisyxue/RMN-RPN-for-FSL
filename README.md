@@ -2,6 +2,11 @@
 Accepted in CVPR 2020 VL3 Workshop [Here](https://www.learning-with-limited-labels.com/home)
 
 Download the paper [Here](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Xue_Relative_Position_and_Map_Networks_in_Few-Shot_Learning_for_Image_CVPRW_2020_paper.pdf)
+
+Slide [Here]()
+
+1-min talk [Here]()
+
 ## Citation
 If you find our work useful, please consider citing our work using the bibtex:
 
