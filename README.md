@@ -5,7 +5,7 @@ Download the paper [Here](http://openaccess.thecvf.com/content_CVPRW_2020/papers
 
 Slide [Here](https://github.com/chrisyxue/RMN-RPN-for-FSL/blob/master/37-slides.pdf)
 
-1-min talk [Here]()
+Talk [Here](https://github.com/chrisyxue/RMN-RPN-for-FSL/blob/master/37-poster.mp4)
 
 ## Citation
 If you find our work useful, please consider citing our work using the bibtex:
